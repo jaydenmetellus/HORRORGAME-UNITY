@@ -1,0 +1,1 @@
+Entered a Game Jam that my school hosted and managed to create a horror game in a week using Unity Engine. I had to teach myself the syntax for C#, but it wasn't too difficult transitioning from C++ to C# as they are undet the same Coding family. 
